@@ -5,3 +5,5 @@ anhnam1 write
 anhnam1 write
 
 anhnam2 will be remove when reset --hard?
+
+anhnam2 will be remove when clean -nd?
