@@ -3,3 +3,5 @@ anhnam write
 anhnam1 write
 
 anhnam1 write
+
+anhnam2 will be remove when reset --hard?
